@@ -1,5 +1,4 @@
 ## Hi there 👋
-```markdown
 I'm Oriana Vértiz
 
 **2026 Political Science & Governance Graduate** from the **Universidad Nacional de Trujillo (UNT)**, La Libertad, Peru 🇵🇪.
