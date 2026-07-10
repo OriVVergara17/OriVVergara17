@@ -1,6 +1,6 @@
 ## Hi there 👋
 ```markdown
-# Hi there! 👋 I'm Oriana Vértiz
+I'm Oriana Vértiz
 
 🎓 **2026 Political Science & Governance Graduate** from the **Universidad Nacional de Trujillo (UNT)**, La Libertad, Peru 🇵🇪.
 
@@ -57,18 +57,3 @@ I'm always interested in collaborating on projects involving:
 
 > *"Technology creates possibilities. Good governance transforms them into public value."*
 ```
-
-<!--
-**OriVVergara17/OriVVergara17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
