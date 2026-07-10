@@ -1,4 +1,4 @@
-## Hi there 👋
+## <img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="500](https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png)"> ## Hi there 👋
 I'm Oriana Vértiz
 
 **2026 Political Science & Governance Graduate** from the **Universidad Nacional de Trujillo (UNT)**, La Libertad, Peru 🇵🇪.
