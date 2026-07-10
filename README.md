@@ -2,7 +2,7 @@
 ```markdown
 I'm Oriana Vértiz
 
-🎓 **2026 Political Science & Governance Graduate** from the **Universidad Nacional de Trujillo (UNT)**, La Libertad, Peru 🇵🇪.
+**2026 Political Science & Governance Graduate** from the **Universidad Nacional de Trujillo (UNT)**, La Libertad, Peru 🇵🇪.
 
 I'm passionate about the intersection of **public policy, governance, artificial intelligence, data, and Civic Tech**, with a strong interest in developing innovative, evidence-based solutions that strengthen public institutions and improve citizens' quality of life.
 
